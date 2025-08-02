@@ -8,7 +8,7 @@ Sound Sanity is a powerful Windows application that automatically routes audio t
 ## 🚀 Getting Started
 
 1. **Launch the Application**: Run Sound Sanity as Administrator for full functionality
-2. **System Tray**: The app runs in your system tray (look for the audio icon 🔊)
+2. **System Tray**: The app runs in your system tray (look for the audio icon)
 3. **Right-click** the tray icon to access the main menu
 
 ---
