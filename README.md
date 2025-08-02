@@ -141,7 +141,7 @@ The mixer window adapts to different sizes:
 **Q: Audio not switching monitors?**
 
 - Click **💻 Align All** to manually align
-- Ensure **Auto Align** is enabled for automatic switching
+- Or Ensure **Auto Align** is enabled in the **Mixer** window for automatic switching
 
 **Q: Volume controls not working?**
 
@@ -157,11 +157,9 @@ The mixer window adapts to different sizes:
 
 ## 💖 Support the Developer
 
-If you find Sound Sanity useful and it makes your multi-monitor audio experience better, consider supporting the development:
+If you find Sound Sanity useful and it makes your multi-monitor audio setup better, consider supporting the developer:
 
-**☕ [Buy me a coffee](https://ko-fi.com/awadree)**
-
-Your support helps maintain and improve this free application!
+**☕ [Buy me a coffee](https://ko-fi.com/awadree){:target="\_blank"}**
 
 ---
 
