@@ -4,14 +4,43 @@
 Sound Sanity is a powerful Windows application that automatically routes audio to the correct speakers based on which monitor your applications are displayed on. Perfect for multi-monitor setups with different audio devices.
 
 ---
-
 ## 🚀 Getting Started
 
-1. **Launch the Application**: Run Sound Sanity as Administrator for full functionality
-2. **System Tray**: The app runs in your system tray (look for the audio icon)
-3. **Right-click** the tray icon to access the main menu
+### 🔊 Required Dependency: SoundVolumeView
+
+This app relies on **SoundVolumeView** by Nir Sofer to manage audio output devices. Due to licensing restrictions, we cannot bundle this tool directly. Please follow these steps to enable full functionality:
+
+1. **Download SoundVolumeView**  
+   👉 [Download SoundVolumeView.zip from the Official NirSoft Website](https://www.nirsoft.net/utils/soundvolumeview.zip)
+
+2. **Extract the ZIP file**  
+   Locate `SoundVolumeView.exe` inside the archive.
+
+3. **Place the EXE file**  
+   Move `SoundVolumeView.exe` into the `Tools` folder inside this application's directory.  
+   ⚠️ **Do not rename the file.**
+
+4. **Review License**  
+   SoundVolumeView is **freeware for personal use only**. Redistribution may be restricted.  
+   🔗 [Read the full license](https://www.nirsoft.net/utils/license.html)
+
+> **All credit for SoundVolumeView goes to Nir Sofer and [nirsoft.net](https://www.nirsoft.net).**
 
 ---
+
+### ✅ Using the App
+
+1. **Launch Sound Sanity**  
+   Run the app as **Administrator** to enable full access to system audio features.
+
+2. **System Tray Access**  
+   Once launched, the app runs in the system tray (look for the 🎵 audio icon).
+
+3. **Open Menu**  
+   Right-click the tray icon to access the app's main menu and settings.
+
+---
+
 
 ## ⚙️ Initial Setup
 
@@ -206,3 +235,5 @@ If you find Sound Sanity useful and it makes your multi-monitor audio setup bett
 ---
 
 _Thank you for using Sound Sanity!_
+
+
