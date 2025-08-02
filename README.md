@@ -30,6 +30,9 @@ This app relies on **SoundVolumeView** by Nir Sofer to manage audio output devic
 
 ### ✅ Using the App
 
+> ⚠️ Windows SmartScreen may show a warning the first time you run this app.
+> This is expected for unsigned apps. You can safely run it by choosing **"More info" → "Run anyway"**.
+> 
 1. **Launch Sound Sanity**  
    Run the app Through **Sound Sanity.exe** , the app will run as **Administrator** to enable full access to system audio features.
 
