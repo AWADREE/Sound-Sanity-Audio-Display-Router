@@ -123,10 +123,30 @@ Each audio device shows its connected applications:
 - **Use Auto Align**: For seamless multi-monitor audio experience
 - **Volume Control**: Adjust individual app volumes without affecting system volume
 - **Quick Access**: Keep the mixer open while gaming or working with multiple audio sources
+- **Temporary Auto Align Control**: Feel free to disable Auto Align from the mixer window when you don't want a window to change its output device while moving it, then re-enable it again. The window will stay with your preferred output device until you choose to align it again
 
 ---
 
-## 🔧 Window Controls
+## � Blacklist Manager
+
+The Blacklist Manager allows you to control which applications should be excluded from automatic audio alignment.
+
+### **How to Access**
+- Available through the **Settings** menu in the system tray
+
+### **How it Works**
+- **Add Applications**: Prevent specific applications from being automatically moved between audio devices
+- **System Processes**: Many system processes and applications come pre-checked for your convenience
+- **Custom Control**: You can uncheck system processes to enable alignment on them if needed
+
+### **Important Notes**
+- **System processes** that you uncheck **will NOT be aligned** using **Auto Align**
+- **Manual alignment** still works: Use **💻 Align All** button or **Align Selected** to Align these applications
+- **Use Cases**: Perfect for applications you want to keep on a specific audio device (like music players, communication apps, or system sounds)
+
+---
+
+## �🔧 Window Controls
 
 ### **Responsive Design**
 
