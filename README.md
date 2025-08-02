@@ -31,10 +31,10 @@ This app relies on **SoundVolumeView** by Nir Sofer to manage audio output devic
 ### ✅ Using the App
 
 1. **Launch Sound Sanity**  
-   Run the app as **Administrator** to enable full access to system audio features.
+   Run the app Through **Sound Sanity.exe** , the app will run as **Administrator** to enable full access to system audio features.
 
 2. **System Tray Access**  
-   Once launched, the app runs in the system tray (look for the 🎵 audio icon).
+   Once launched, the app runs in the system tray.
 
 3. **Open Menu**  
    Right-click the tray icon to access the app's main menu and settings.
