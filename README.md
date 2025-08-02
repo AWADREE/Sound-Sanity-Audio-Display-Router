@@ -13,6 +13,19 @@ Sound Sanity is a powerful Windows application that automatically routes audio t
 
 ---
 
+## ⚙️ Initial Setup
+
+**Important**: When you first open Sound Sanity, you'll need to assign your audio devices to your displays for the automatic routing to work properly.
+
+1. **Open Settings**: Right-click the tray icon and select "⚙️ Settings"
+2. **Configure Audio Devices**: Assign each of your audio devices (speakers, headphones) to their corresponding displays
+3. **Save Configuration**: Your settings will be remembered for future use
+4. **Test the Setup**: Move a window between monitors and verify audio follows correctly
+
+_This one-time setup ensures Sound Sanity knows which audio device belongs to each monitor._
+
+---
+
 ## 📋 Main Features
 
 ### **System Tray Menu**
