@@ -23,7 +23,7 @@ Sound Sanity is a powerful Windows application that automatically routes audio t
 4. **Test the Setup**: Move a window between monitors and verify audio follows correctly
 
 _This one-time setup ensures Sound Sanity knows which audio device belongs to each monitor._
-
+**Note**: The Settings window includes a theme toggle button to switch between Light and Dark modes for better visual comfort.
 ---
 
 ## 📋 Main Features
