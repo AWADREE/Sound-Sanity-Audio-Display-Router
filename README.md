@@ -32,10 +32,10 @@ _This one-time setup ensures Sound Sanity knows which audio device belongs to ea
 
 Right-click the tray icon to access:
 
-- **🎵 Open Mixer**: Opens the main audio control window
-- **💻 Align Audio**: Instantly routes all audio to match current window positions
-- **⚙️ Settings**: Configure application preferences
-- **🔄 Refresh**: Manually refresh audio sessions
+- **💻 Align All**: Instantly routes all audio to match current window positions
+- **🖥️ Align Selected**: Instantly routes selected audio to match current window positions
+- **🎛️ Audio Mixer**: Configure application preferences
+- **⚙️ Settings**: Opens the main audio control window
 - **❌ Exit**: Close the application
 
 ### **Audio Mixer Window**
