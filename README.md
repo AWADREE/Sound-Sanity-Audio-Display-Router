@@ -192,7 +192,7 @@ The mixer window adapts to different sizes:
 
 If you find Sound Sanity useful and it makes your multi-monitor audio setup better, consider supporting the developer:
 
-**☕ [Buy me a coffee](https://ko-fi.com/awadree){:target="\_blank"}**
+**☕ [Buy me a coffee](https://ko-fi.com/awadree)**
 
 ---
 
