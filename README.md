@@ -204,4 +204,4 @@ If you find Sound Sanity useful and it makes your multi-monitor audio setup bett
 
 ---
 
-_Thank you for using Sound Sanity! For technical support or feature requests, please check the project documentation._
+_Thank you for using Sound Sanity!_
